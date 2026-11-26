@@ -1,0 +1,28 @@
+header{
+  
+  padding-top: 20px;
+  text-align: center;
+  font-style: oblique;
+  background-color: #f2ced9;
+  color: black;
+  width: 100%;
+  
+}
+body{
+  
+  background-color: #fff0f3;
+  font-family: serif, monospace;
+  
+}
+body h4 {
+  color: #463f3f;
+}
+body h2{
+  color:#463F3F;
+}
+ul h4{
+  text-indent: 15px;
+}
+body p{
+  padding-left: 50px;
+}
